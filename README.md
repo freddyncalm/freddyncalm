@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @freddyncalm
+- 👀 I’m interested in storytelling & script writing. Bash scripts included.
+- 🌱 I’m currently learning moon runes & grammar.
+- 💞️ I’m looking to collaborate on demoscene, art and video creation.
+- 📫 How to reach me: @freddyncalm (on Twitter)
